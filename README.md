@@ -11,5 +11,5 @@ $ (venv) pip install -r requirements.txt
 ## スライドの作成
 
 ```console
-$ jupyter nbconvert 180917slide.ipynb --to slides --reveal-prefix https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0
+$ jupyter nbconvert 180918slide_revised.ipynb --to slides --reveal-prefix https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0
 ```
